@@ -1,0 +1,56 @@
+*{
+margin: 0;
+padding: 0%;
+}
+body{
+    background-image:url(https://getwallpapers.com/wallpaper/full/c/f/3/1012089-ben-10-wallpapers-1920x1080-pictures.jpg);
+    
+}
+form{
+    margin-left: 550px;
+    margin-top: 50px;
+}
+
+label{
+    display:block;
+    color: white;
+    font-size: 25px;
+}
+h1{
+    color: green;
+    font-size: 50px;
+    text-align: center;
+}
+input 
+{
+   height: 30px; 
+   width: 250px; 
+   background: transparent;
+   color: white;
+}
+textarea{
+    width: 250px;
+    background: transparent;
+    color: white;
+
+}
+button{
+    margin-left: 650px;
+    padding: 12px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+
+}
+button:hover{
+text-decoration: underline;
+color: red;
+}
+input::placeholder{
+    color: white;
+}
+:placeholder{
+    color: rgb(9, 9, 211);
+}
+
+
